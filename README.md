@@ -15,6 +15,6 @@ These packages are saved in References file.
 The project is required to adding those references, in order to run the project.
 
 
-# Storing Bookmarked Repository
+# Storing Bookmarked Repositories
 I stored the Bookmarked Repositories to list.
 I didn't find way to connect the ASP.net seesion in Windows Form application. 
