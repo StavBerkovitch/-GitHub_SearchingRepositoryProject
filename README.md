@@ -1,8 +1,8 @@
 # GitHub_SearchingRepository_StavProject
 GitHub API Searching Repository, Windows Form Application.
+Microsoft Visual Studio 2013, .NET Framework 4.5
 
 # References
-
 1) The project using the Octokit (Git-Hub API Client Library for .Net) 
 2) Octokit.Reactive (Addition to Octokit).
 3) System.Reactive.Core
